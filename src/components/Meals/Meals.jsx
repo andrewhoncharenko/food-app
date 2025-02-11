@@ -1,6 +1,6 @@
 import { use } from "react";
 import { MealsContext } from "../../store/MealsContext";
-import MealItem from "../MealItem";
+import MealItem from "./MealItem";
 
 
 export default function Meals() {
